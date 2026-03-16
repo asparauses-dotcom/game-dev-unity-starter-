@@ -38,7 +38,7 @@ Creates a pyramid formation of stacked boxes by progressively reducing the numbe
 Shows procedural generation by spawning boxes at random positions.
 
 Video demonstration:
-![random_spawner_demo](random spawner demo.mov)
+![random_spawner_demo](random_spawner_demo.mov) 
 
 ## Purpose
 
